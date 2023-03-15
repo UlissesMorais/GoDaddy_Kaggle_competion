@@ -1,2 +1,2 @@
 # GoDaddy_Kaggle_competion
-GoDaddy time seies competition
+GoDaddy competition - Time Series with XGBoost models
